@@ -1,12 +1,20 @@
 Here is a potential list of projects to help 
 
-	- MDL
-	- Roassal
-	- Moose
 
-	- Telescope
-	- Artefact
-	- Scale
+# MDL
+	- WebPage: For now it is https://github.com/DuneSt/MaterialDesignLite
+	- Mailing list: Pharo-user or Seaside
+	- Bug Tracker: https://github.com/DuneSt/MaterialDesignLite/issues
+
+
+# Moose
+	- http://moosetechnology.org
+ 	Mailing-list: 
+	- https://www.list.inf.unibe.ch/listinfo/moose-dev
+	
+	
+
+# Scale
 	- Ecstatic
 
 # Roassal
@@ -30,6 +38,14 @@ Bug tracker:
 	https://github.com/PolyMathOrg/PolyMath/issues
 	Serge Stinckwich <serge.stinckwich@gmail.com>
 	
+	
+# Telescope
+	- Guillaume Larcheveque <guillaume.larcheveque@gmail.com>
+	- http://smalltalkhub.com/#!/~Moose/Telescope
+
+# Artefact	
+
+
 # Graphoscopio
 	Offray Vladimir Luna Cárdenas <offray.luna@mutabit.com>
 	- Web page (English): http://mutabit.com/grafoscopio/index.en.html
