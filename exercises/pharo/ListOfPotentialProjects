@@ -3,13 +3,41 @@ Here is a potential list of projects to help
 	- MDL
 	- Roassal
 	- Moose
-	- DRGeoII
+
 	- Telescope
 	- Artefact
 	- Scale
 	- Ecstatic
 
+# Roassal
+	Webpages: 
+	- http://agilevisualization.com
+	- http://moosetechnology.org
+ 	Mailing-list: 
+	- https://www.list.inf.unibe.ch/listinfo/moose-dev
+ 
+Bug tracker:
+	https://github.com/moosetechnology/Moose/issues
+
+#Iceberg
+	- Nicolas Passerini <npasserini@gmail.com> and 
+	
+# DRGeoII
+	- Hilaire <hilaire@drgeo.eu>
+	- http://drgeo.eu
+
+# PolyMath 
+	https://github.com/PolyMathOrg/PolyMath/issues
+	Serge Stinckwich <serge.stinckwich@gmail.com>
+	
+# Graphoscopio
+	Offray Vladimir Luna Cárdenas <offray.luna@mutabit.com>
+	- Web page (English): http://mutabit.com/grafoscopio/index.en.html
+	 - Mailing list (Spanish, but we can handle English): https://lists.riseup.net/www/arc/grafoscopio
+	 - Bug Tracker: http://mutabit.com/repos.fossil/grafoscopio/ticket
+
 # Ephestos
+Dimitris Chloupis <kilon.alios@gmail.com>
 http://www.kilon-alios.com
 My project may be too advanced for a student but if students are interested in Game Development and Unreal. 
 In a process of constructing a Unreal API for Pharo. 
