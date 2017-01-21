@@ -6,7 +6,9 @@ Here is a potential list of projects to help
   - Mailing list: Pharo-user or Seaside
   - Bug Tracker: https://github.com/DuneSt/MaterialDesignLite/issues
 
-
+# Phratch
+  - WebPage: http://www.phratch.com/
+  - Bug Tracker: https://github.com/janniklaval/phratch/issues
 # Moose
   - Webpage: http://moosetechnology.org
   - Mailing-list: https://www.list.inf.unibe.ch/listinfo/moose-dev	
