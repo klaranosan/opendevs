@@ -2,11 +2,9 @@
 
 Each team has to put a directory inside here. Please, create a directory with your team's name. We expect that inside your directory you put the following structure:
 
+- teamX/
  - reports/
-   - member1/
      - year/month/day.txt
-     - ...
-   - member2/
      - ...
    - presentationLanguage.pdf
    - presentationReverseEngineering.pdf
