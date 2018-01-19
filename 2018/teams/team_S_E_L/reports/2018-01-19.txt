@@ -1,0 +1,7 @@
+- Recherches sur le model d'objet de Pharo :
+	- principe "tout est objet"
+	- envoi de messages
+	- héritage / superclasse, lookup
+	- méthodes publiques, variables privée
+	- méthodes statiques
+- Mise en place des outils de travail collaboratifs (Git, diapo et communication)
