@@ -21,7 +21,8 @@ Scripting library and tools for Pharo.
 Document manipulation chain and markup language. Static website, pdf and presentation generation.
  - Repository: https://github.com/pillar-markup/pillar (newpipeline branch)
  - Contacts: Guillermo Polito <guillermopolito@gmail.com> and Stéphane Ducasse <stephane.ducasse@inria.fr>
-
+ - Possible sub-projects: Static website generation, parser, document generation chain
+ 
 # Roassal
 2D Visualization Engine
  - Webpages: 
@@ -44,6 +45,7 @@ Concurrency management library.
 Git client for Pharo.
   - Webpage: https://github.com/npasserini/iceberg (branch dev-0.7)
   - Contact: Esteban Lorenzano <estebanlm@gmail.com>
+  - Possible sub-projects: user interface, git model
 
 # PolyMath 
 Scientific library for Pharo.
