@@ -13,3 +13,5 @@ Each team has to put a directory inside here. Please, create a directory with yo
    - ...
    
 Feel free to put any documentation relative to your team, anything that could help you understand or us to understand your advance in the course.
+
+To modify this, we expect your pull request!
