@@ -1,0 +1,12 @@
+TEAM: Reservoir Dogs
+First week report :
+--------------------
+
+Things done :
+- Getting to know the Pharo environment
+- Revising the basic OOP notions 
+- Learning Pharo syntax and philosophy
+- Understating the basic idea behind the block closures
+- Highlights for the presentation
+
+
