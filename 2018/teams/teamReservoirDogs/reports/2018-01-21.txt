@@ -9,4 +9,8 @@ Things done :
 - Understating the basic idea behind the block closures
 - Highlights for the presentation
 
+Used ProfStef to learn the basic syntax of the language.
+Went on the site mooc.pharo.org and looked up the courses on the language.
+Done the exercises of the same site to push the knowledge we had of the language, up to the exercice about the dice (included).
+Watched the videos of the same site to get a better idea of what really is OOP.
 
