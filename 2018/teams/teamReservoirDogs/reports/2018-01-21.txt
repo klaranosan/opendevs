@@ -2,7 +2,7 @@ TEAM: Reservoir Dogs
 First week report :
 --------------------
 
-Things done :
+daniel-sasu, things done :
 - Getting to know the Pharo environment
 - Revising the basic OOP notions 
 - Learning Pharo syntax and philosophy
