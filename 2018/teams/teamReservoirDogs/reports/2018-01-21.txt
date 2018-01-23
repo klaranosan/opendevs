@@ -17,3 +17,8 @@ mcorbau, things done :
 - highlights for the presentation.
 - Reading more about the block closures in the pharo books site (book.pharo.org).
 
+Beuchey, things done :
+- Follow ProfStef tutorial to get started in Pharo's syntax;
+- Read "Pharo By Exemple" and "Deep into Pharo" books, especially the chapters concerning our topic.
+- Revise OOP concepts with Pharo's Mooc
+- Gather all informations we have and write a file descripting our understanding of Block Closures
