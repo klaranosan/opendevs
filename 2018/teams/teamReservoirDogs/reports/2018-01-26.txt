@@ -1,0 +1,13 @@
+TEAM: Reservoir Dogs
+First week report :
+--------------------
+
+daniel-sasu, things done :
+- learning contexts
+- diving deep into pharo
+- exceptions 
+- presentation
+
+mcorbau, things done :
+
+Beuchey, things done :
