@@ -1,0 +1,10 @@
+#Le 12/01/2018
+
+> GREAT TEAM ---> "**LOUNAS** Sarra / "**SAKHIRI** Mostafa /"**YAKINE** Anass "
+
+
+ 1. Présentation de langage Pharo.
+ 2. Construction de notre GREAT TEAM.
+ 3. Le choix de thème "Reflection" lequel on va le présenter 26/01/2018
+ 4. On a vu comment le Pharo s'installe .
+ 5. La fin on a vu le Documentation de Pharo et aussi on a exécutée les leçons de ProfStef 
