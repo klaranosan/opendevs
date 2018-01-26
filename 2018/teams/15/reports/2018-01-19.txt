@@ -4,6 +4,10 @@ Achraf
 
 
 Klara
-
+- Follow the mooc tutorials from W1 (read the slides and watch the videos), and all the tutorials concerning testing in Pharo
+- Try the examples of code seen in the moocs
+- Read the chapter about testing in Learning Object-Oriented Programming, Design and TDD with Pharo
+- Start writing examples of tests, try out the assert clauses, running the tests ...
+- Prepare a plan of the presentation
 
 Elmehdi

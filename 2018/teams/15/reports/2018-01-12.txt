@@ -4,6 +4,10 @@ Achraf
 
 
 Klara
+- Choose a group and a Pharo Language presentation topic
+- Download Pharo and get to know the user interface
+- Follow the ProfStef tutorial in Pharo
+- Start reading Pharo by Example 5 and testing the examples of code given in the book
 
 
 Elmehdi
