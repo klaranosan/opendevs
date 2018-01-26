@@ -1,0 +1,16 @@
+RAPPORT OPENDEV
+GROUPE : The good the bad and the ugly
+COMPOSE DE : BENSADOK Imrane
+	     GALLARDO Marie
+	     PARRAIN Gaultier
+
+--- SEANCE 2 -------------------------------------------------------------------------------------------
+
+Lors de la seconde séance, nous avons eue une seconde présentation de Pharo par Stéphane Ducasse qui nous a apporté de nouvelles informations sur Pharo. Pendant la première partie de la séance, nous avons continué à étudier les vidéos et les diaporamas mis à notre disposition pour parfaire nos connaissances en Pharo.
+	Durant la seconde partie de la séance, nous avons commencé à discuter de ce que nous allions mettre dans notre présentation, nous avons donc naturellement établit un plan pour celui-ci. Nous avons appelé les enseignants pour qu'ils nous confirment notre plan et qu'ils nous aident à savoir si tout était nécessaire. Ils nous ont également aidé à comprendre mieux certains points que nous avions mal compris avec les vidéos (super/self). Enfin, nous avons commencé à réaliser notre diaporama pour la présentation.
+
+--- ENTRE LA SEANCE 2 ET 3 -----------------------------------------------------------------------------
+
+Nous avons terminé le diaporama et nous avons préparé notre oral.
+
+
