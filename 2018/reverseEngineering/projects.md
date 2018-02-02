@@ -74,7 +74,7 @@ IoT with Pharo
   - Webpage: https://github.com/pharo-iot/PharoThings
   - Contact: Denis Kudriasov et Pharo mailing list
 
-#Bloc and Brick
+# Bloc and Brick
 
 2D Graphics framework and widgets library.
  - Webpage: https://github.com/pharo-graphics/Bloc
