@@ -67,3 +67,9 @@ Pharo Compiler from source-code to bytecode.
 New IDE tools for Pharo.
   - Webpage: https://github.com/dionisiydk/Calypso
   - Contact: Pharo mailing list
+  
+ 
+# PharoThings
+IoT with Pharo
+  - Webpage: https://github.com/pharo-iot/PharoThings
+  - Contact: Denis Kudriasov et Pharo mailing list
