@@ -1,4 +1,0 @@
-Création de l'équipe
-Choix du sujet
-Installation de Pharo
-Découverte du langage
