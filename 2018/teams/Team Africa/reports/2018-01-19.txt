@@ -1,6 +1,6 @@
-Authors : - Valérie Yete
-		  - Ahouefa Kpossou
-		  - Franco Davy Irakoze
+Authors : - Hona Yete
+          - Ahouefa Kpossou
+	  - Franco Davy Irakoze
 		  
 		  
 Report of OpenDevs's course on 2018-01-19

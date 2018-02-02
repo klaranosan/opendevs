@@ -1,0 +1,18 @@
+Authors : - Hona Yete
+	  - Ahouefa Kpossou
+	  - Franco Davy Irakoze
+		  
+		  
+Report of OpenDevs's course on 2018-02-02
+
+
+
+- Nous avons suivi une démonstration sur la manière dont est fait les tests unitaires avec Sunit.
+- Présentation des différentes façon d'exécuter les tests(testRunner,sur le browser).
+- Il nous a été rappelé la différence entre message et methode en OOP.
+- Exercice de pratique sur un exercice du mooc : DSL.
+- présentation des thèmes pour le reverse engineering.
+
+
+
+
