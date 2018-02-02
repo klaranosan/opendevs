@@ -8,3 +8,4 @@ Klara
 - Learning more about pharo through the presentations
 
 Elmehdi
+assister au passage des présentations et  s'approfondir sur les différentes autres parties du langage et présentation de notre partie units tests
