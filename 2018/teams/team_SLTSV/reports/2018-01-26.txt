@@ -1,0 +1,2 @@
+Préparation de la présentation
+Apprentissage des collections, itérateurs et streams
