@@ -79,3 +79,9 @@ IoT with Pharo
 2D Graphics framework and widgets library.
  - Webpage: https://github.com/pharo-graphics/Bloc
  - Contact: Glenn Cavarlé & Aliaksei Syrel & Pharo mailing list
+
+# Pharo JS
+
+Platform to develop JS applications with Pharo.
+ - Webpage: https://pharojs.github.io/
+ - Contact: Noury Bouraqadi & Dave Mason
