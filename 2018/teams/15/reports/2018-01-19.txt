@@ -11,3 +11,4 @@ Klara
 - Prepare a plan of the presentation
 
 Elmehdi
+se focaliser le plus sur la partie tests unitaires et préparer la présentation
