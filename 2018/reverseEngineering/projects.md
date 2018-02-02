@@ -73,3 +73,9 @@ New IDE tools for Pharo.
 IoT with Pharo
   - Webpage: https://github.com/pharo-iot/PharoThings
   - Contact: Denis Kudriasov et Pharo mailing list
+
+#Bloc and Brick
+
+2D Graphics framework and widgets library.
+ - Webpage: https://github.com/pharo-graphics/Bloc
+ - Contact: Glenn Cavarlé & Aliaksei Syrel & Pharo mailing list
