@@ -24,9 +24,10 @@ Document manipulation chain and markup language. Static website, pdf and present
  - Possible sub-projects: Static website generation, parser, document generation chain
  
 # Roassal (team the good the bad & the ugly)
-# BENSADOK Imrane
-# GALLARDO Marie
-# PARAIN Gaultier
+- BENSADOK Imrane
+- GALLARDO Marie
+- PARAIN Gaultier
+
 2D Visualization Engine
  - Webpages: 
    - http://agilevisualization.com
@@ -70,3 +71,21 @@ Pharo Compiler from source-code to bytecode.
 New IDE tools for Pharo.
   - Webpage: https://github.com/dionisiydk/Calypso
   - Contact: Pharo mailing list
+ 
+# PharoThings
+IoT with Pharo
+  - Webpage: https://github.com/pharo-iot/PharoThings
+  - Contact: Denis Kudriasov et Pharo mailing list
+
+# Bloc and Brick
+
+2D Graphics framework and widgets library.
+ - Webpage: https://github.com/pharo-graphics/Bloc
+ - Contact: Glenn Cavarlé & Aliaksei Syrel & Pharo mailing list
+
+# Pharo JS
+
+Platform to develop JS applications with Pharo.
+ - Webpage: https://pharojs.github.io/
+ - Contact: Noury Bouraqadi & Dave Mason
+

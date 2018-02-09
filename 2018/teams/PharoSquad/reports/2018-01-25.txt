@@ -1,0 +1,25 @@
+Pharo Squad Week 2 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+
+1)Finishing ProfStef tutorial (Yeah !)
+
+2)Learning how to create classes/methods
+
+We got our hands on the browser creating our first package, class and method. We followed the steps of the MOOC week 1 tutorial (plus Pharo by Exemple) to do so.
+
+3)Preparing the debugger presentation
+
+a) Watching videos
+   *Mooc week 5 videos
+   *Youtube video "Pharo 5 5 Debugging in Pharo"
+
+b) Implementing a counter in different ways
+   *First by creating the classes in the browser
+   *TDD method: Creating a test and using the debugger to create missing class and methods.
+
+c) Finding exemples to code for the presentation
+
+We looked for good exemples to code live during our presentation to explain the debugger UI, the breakpoints and how coding in the debugger is usefull.

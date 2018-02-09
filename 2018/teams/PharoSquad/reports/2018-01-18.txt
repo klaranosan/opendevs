@@ -1,0 +1,19 @@
+Pharo Squad Week 1 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+
+1) Installation of Pharo
+
+2) Reading first two chapters of Pharo by Exemple 5
+
+Reading the book we learned how to launch Pharo (and how images work). We also discovered the UI and how to open the browser, playground and other menus. Yet we didn't create any function, class or method.
+
+3) Following the ProfStef tutorial (21/29)
+
+
+4) Playing with Pharo
+
+We wrote various functions/portions of code to get use to the language and the UI. We only used the Playground (actually we also rewrote factorial).
+

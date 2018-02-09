@@ -1,0 +1,4 @@
+- Création du groupe et choix du sujet (Object Model).
+- Découverte de Pharo en suivant des tutoriels ou vidéos (principalement pour la syntaxe)
+
+
