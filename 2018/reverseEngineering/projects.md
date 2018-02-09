@@ -40,7 +40,7 @@ Components for interactive web applications.
 Concurrency management library.
   - Webpage: https://github.com/sbragagnolo/taskit
   - Contact: Guillermo Polito <guillermopolito@gmail.com> and Santiago Bragagnolo <santiagobragagnolo@gmail.com>
-  - Working Team: @reservoir-dogs-lille/opendev
+  - Working Team: https://github.com/reservoir-dogs-lille 
 # Iceberg
 Git client for Pharo.
   - Webpage: https://github.com/npasserini/iceberg (branch dev-0.7)
