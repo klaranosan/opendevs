@@ -1,0 +1,5 @@
+Follow the course of professor Steph in pharo until step 12
+			-Syntax Basis with voc : messages arguments operator 
+			-Use of brackets
+			-Everything is object
+			-Shortcut ctrl +D,+P,+M

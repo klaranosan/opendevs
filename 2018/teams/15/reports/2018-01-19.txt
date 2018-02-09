@@ -1,0 +1,17 @@
+19/01/2018
+
+Achraf
+-commencer a aprendre le langage pharo a l'aide de mooc
+-commencer a voir les vidéos et les slides sur les tests
+-faire des exemples sur les tests
+-discuter avec mon groupe sur la présentation  
+
+Klara
+- Follow the mooc tutorials from W1 (read the slides and watch the videos), and all the tutorials concerning testing in Pharo
+- Try the examples of code seen in the moocs
+- Read the chapter about testing in Learning Object-Oriented Programming, Design and TDD with Pharo
+- Start writing examples of tests, try out the assert clauses, running the tests ...
+- Prepare a plan of the presentation
+
+Elmehdi
+se focaliser le plus sur la partie tests unitaires et préparer la présentation
