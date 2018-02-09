@@ -23,7 +23,10 @@ Document manipulation chain and markup language. Static website, pdf and present
  - Contacts: Guillermo Polito <guillermopolito@gmail.com> and Stéphane Ducasse <stephane.ducasse@inria.fr>
  - Possible sub-projects: Static website generation, parser, document generation chain
  
-# Roassal
+# Roassal (team the good the bad & the ugly)
+# BENSADOK Imrane
+# GALLARDO Marie
+# PARAIN Gaultier
 2D Visualization Engine
  - Webpages: 
    - http://agilevisualization.com
