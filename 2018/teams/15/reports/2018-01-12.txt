@@ -1,6 +1,10 @@
 12/01/2018
 
 Achraf
+-choisir un groupe 
+-choisir un sujet pour la présentation 
+-installation de pharo 
+-découvrir le langage 
 
 
 Klara
