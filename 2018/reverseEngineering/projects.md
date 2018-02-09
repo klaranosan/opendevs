@@ -44,7 +44,7 @@ Components for interactive web applications.
 Concurrency management library.
   - Webpage: https://github.com/sbragagnolo/taskit
   - Contact: Guillermo Polito <guillermopolito@gmail.com> and Santiago Bragagnolo <santiagobragagnolo@gmail.com>
-
+  - Working Team: https://github.com/reservoir-dogs-lille 
 # Iceberg
 Git client for Pharo.
   - Webpage: https://github.com/npasserini/iceberg (branch dev-0.7)
@@ -71,7 +71,7 @@ Pharo Compiler from source-code to bytecode.
 New IDE tools for Pharo.
   - Webpage: https://github.com/dionisiydk/Calypso
   - Contact: Pharo mailing list
- 
+
 # PharoThings
 IoT with Pharo
   - Webpage: https://github.com/pharo-iot/PharoThings
@@ -88,4 +88,3 @@ IoT with Pharo
 Platform to develop JS applications with Pharo.
  - Webpage: https://pharojs.github.io/
  - Contact: Noury Bouraqadi & Dave Mason
-
