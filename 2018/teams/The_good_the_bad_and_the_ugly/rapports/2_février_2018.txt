@@ -1,0 +1,12 @@
+RAPPORT OPENDEV
+GROUPE : The good the bad and the ugly
+COMPOSE DE : BENSADOK Imrane
+	     GALLARDO Marie
+	     PARRAIN Gaultier
+
+--- SEANCE 4 -------------------------------------------------------------------------------------------
+
+Guille nous a fait un cours appronfondis sur Pharo. Il est revenue sur certains points qui étaient présents dans le test que nous avons fait lors de la première séance comme par exemple "la différence entre les méthodes et les messages".
+Il a ensuite crée une classe test en pharo pour nous familiariser avec les tests unitaires.
+
+A la fin du cours, il nous a présenté les sujets possibles en Pharo pour la suite des séances.
