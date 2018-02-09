@@ -1,0 +1,5 @@
+- choix du projet : Calypso
+- Recherches initiales sur le projet :
+  - premier contact avec des développeurs sur Discord
+  - recherches sur le fonctionnement du projet (classes importantes, documentation de classes et de méthodes)
+  - recherche de documentation externe (articles de blogs....)
