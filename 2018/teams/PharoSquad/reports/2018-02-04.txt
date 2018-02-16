@@ -1,4 +1,4 @@
-Pharo Squad Week 2 report
+Pharo Squad Week 3 report
 Team members:
      AIT ELHAJ Azzedine
      HUGOT Jean-Michel
