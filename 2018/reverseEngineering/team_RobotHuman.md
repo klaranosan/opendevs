@@ -1,5 +1,5 @@
 Team : Robot Human
 auteur : KUNSANGABO NDONGALA Berfy
 
-Sujet Pharo : PharoThings
--------------------------
+j'ai choisi le Sujet Pharo : PharoThings
+                             ----------
