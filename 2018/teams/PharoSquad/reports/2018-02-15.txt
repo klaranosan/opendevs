@@ -1,0 +1,12 @@
+Pharo Squad Week 5 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+     
+
+1) We reported a bug about Pharo debugger.
+
+2) We tryed to install Pillar on Linux (x64) with the help of Stéphane Ducasse and Damien Pollet (it took us 4h but we didn't succeed)
+
+3) We reported another Pharo bug (the bugged feature is used in Pillar).
