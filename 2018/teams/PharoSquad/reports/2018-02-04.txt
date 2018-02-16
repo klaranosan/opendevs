@@ -1,0 +1,9 @@
+Pharo Squad Week 2 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+     
+1) Developping a rock-paper-ciscor game (random IA and no INPUT)
+ 
+2) MOOC : Dice exercice (not finished)
