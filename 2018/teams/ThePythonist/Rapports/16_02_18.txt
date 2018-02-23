@@ -1,0 +1,16 @@
+Browse Pillar Classes to dicover Pillar's process:
+	- PRProject, handle the whole document generating process from a Pillar syntax file
+	- Creation of a PRPipelineBuilder, aim to lauch other tasks
+		- Task 1 : PRParseTask, generate a tree with PRElements and PRNoeud
+		- Task 2 : In case of dependencies to other files PRExpandInclusionsTask, add these dependencies
+		- Task 3 : PRTransformTask, Transform the tree from PRParseTask
+		- Task 4 : PROutputFormatterTask, Take the Transformed tree from PRTransformTask to the proper format
+		- Task 5 : PRSaveTask, saves the result as a file.
+	- PRPillarTask is the super class of all tasks
+	- Different Format are handle by PRFormatOutput (HTML -> PRHtmlOutput ,PDF-> PRPdfOutput)
+	- PRInputDocument, takes charge of the Pillar syntax file(_.pillar)
+	- Transformations are mostly inherited from PRNodeTransformer
+	- Pattern Visitor mostly use (PRVisitor)
+	- Parser uses an independant Pharo tool PetitParser
+
+For the Future session, we'll explore the use of Visitor pattern && go further in the Tasks classes
