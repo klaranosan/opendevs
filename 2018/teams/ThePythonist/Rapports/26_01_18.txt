@@ -1,0 +1,10 @@
+Present slide to the class
+	- Upload a fully fontional tutorial script, Pythonists go.
+	- Learning from the others group
+		- Syntax
+		- Block Closure Lexical Structure
+		- Exceptions
+		- Collections & Iterators
+		- Objects Philosophy
+		- Debugger
+		- Inspector
