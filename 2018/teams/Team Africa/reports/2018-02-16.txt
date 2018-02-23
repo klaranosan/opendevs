@@ -1,0 +1,22 @@
+Authors : - Hona Yete
+	  - Ahouefa Kpossou
+	  - Franco Davy Irakoze
+		  
+		  
+Report of OpenDevs's course on 2018-02-16
+
+
+
+But du jour : progresser sur le projet choisi dans le cadre du reverse engineering.
+
+Analyse du code de PharoJs.
+
+	- Package PharoJsBridge : qui est un package qui permet l'interaction avec un interpreteur 		javaScript
+
+	- Package PharoJsApp qui contient les classes pour créer des applications 
+ 
+	- Analyse des exemples d'applications créer avec PharoJs accessible dans le package       		PharoJsExamples
+
+
+
+La compréhension du code continue et n'est pas encore fini. 
