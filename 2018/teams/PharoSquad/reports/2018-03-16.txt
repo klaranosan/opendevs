@@ -1,0 +1,9 @@
+Pharo Squad Week 9 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+     
+1) We decided to work on the tests that were failing :
+    *List the tests failing (package and class) and try to fix them
+    
