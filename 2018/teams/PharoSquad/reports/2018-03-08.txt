@@ -1,0 +1,13 @@
+Pharo Squad Week 8 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+     
+1) Preparation for the presentation : 
+    *We listed the packages and determining their "role" (the main features they provide).
+    *We determined wich packages were the most important and interesting to present.
+    *We had a look at the code of the classes of the main packages of the project to see what they do and how they work.
+    *We made a Prezi for the presentation.
+    
+2) Presentation of PharoJS in front of the class
