@@ -1,6 +1,10 @@
 12/01/2018
 
 Achraf
+-choisir un groupe 
+-choisir un sujet pour la présentation 
+-installation de pharo 
+-découvrir le langage 
 
 
 Klara
@@ -11,3 +15,7 @@ Klara
 
 
 Elmehdi
+installation pharo , construction des groupes ,choix de présentation , s’initier avec pharo en commencant le mooc savoir les avantages du langage .
+la création du premier package ,classe et méthode
+savoir les différents objets de pharo comme mouse boolean integer
+les differents messages : unary , binary ,  keyword et leurs precedence d'exécution

@@ -1,0 +1,5 @@
+23/02/2018
+
+Achraf, Klara, Elmehdi
+- follow the tutorial from the Moose book
+- try using Moose on our own

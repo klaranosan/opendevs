@@ -1,0 +1,5 @@
+02/02/2018
+
+Achraf, Klara, Elmehdi
+- follow Guille's demo about reverse engineering
+- learn more about pharo by following the DSL mooc

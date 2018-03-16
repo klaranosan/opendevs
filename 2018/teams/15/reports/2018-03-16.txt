@@ -1,0 +1,14 @@
+16/03/2018
+
+Achraf, Klara, Elmehdi
+- go through the issue tracker and try to reproduce them/check if the issues are still unresolved
+- we have noticed that there are many old issues that haven't been checked in a long time
+- we checked the following issues and commented on them on the issue tracker (https://github.com/moosetechnology/Moose/issues):
+	- #1158 more a todo than a bug (should be removed from the issue tracker)
+	- #1156 no progress has been made on this issue since 3 March 2017, we are wondering if it's still worth keeping it if no one is working on it
+	- #1155 we think it is the same issue as #1158 - we suggest to only keep one of them
+	- #1141 we tested the issue in Moose 6.1, it has been resolved in this version, so we suggest to close it
+	- #1146 the class mentioned in the issue is not in Moose 6.1, so we suggest to close this issue
+	- #1149 we reproduced the bug and can say that the still problem hasn't been resolved in Moose 6.1, we found the exact package where the problem appears and reported it on the issue tracker
+	- #773 we reproduced the issue and the problem (first reported in 2012!) still hasn't been resolved
+
