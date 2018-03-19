@@ -1,0 +1,66 @@
+Team members:
+*AIT ELHAJ Azzedine
+*WATRELOS Jérémy
+*HUGOT Jean-Michel
+
+Project : PharoJS
+
+Lien du Prezi (Presentation) : https://prezi.com/view/4nE1YMCNXTt6URXstZdW/
+
+Installer PharoJS (dans le Playground):
+Gofer it
+smalltalkhubUser: 'noury' project: 'PharoJS';
+configurationOf: #PharoJS ;
+loadBleedingEdge.
+
+Code des exemples: 
+
+"PjMinimalApp"
+
+"Exemple 1: Interraction avec notre page Web"
+document body innerHTML: '<h1>Nous sommes la PharoSquad !</h1>'.
+window alert: 'Vous êtes le 1000ème visiteurs ! Vous avez gagné un Iphone X, contactez nous au 08XXXXXXXX ou envoyez ROUROU au 3875'.
+console warn: 'String envoyé de Pharo en JS'.
+document body style backgroundColor: '#ea0'.
+
+"original := document body innerHTML."
+"document body innerHTML: original."
+
+"Inspecter -> Console -> Filter -> window.ultimateAnswer"
+window instVarNamed: #ultimateAnswer put: 42.
+window ultimateAnswer.
+
+
+"Exemple 2:"
+"Créez des pages interactives avec PharoJS !"
+div := document createElement: 'DIV'.
+div id: #myDiv.
+div innerHTML: 'Hello World !'.
+document body appendChild: div.
+sameDiv := document getElementById: #myDiv.
+sameDiv innerHTML: 'Ma deuxième DIV !'.
+
+"Exemple 3:"
+"Créer un boutton avec un ActionListener"
+
+div := document createElement: 'DIV'.
+div id: #myDiv.
+document body appendChild: div.
+
+bridge loadClass: PjCounter. 
+
+bridge evalBlock: [ 
+	|counter button display|
+	counter := PjCounter new.
+	button := document createElement: 'BUTTON'.
+	button innerHTML: 'Cliquez-ici'.
+	document body appendChild: button.
+
+	display := document getElementById: #myDiv.
+	button
+		addEventListener: #click
+		block: [ 
+			counter increment.
+			display innerHTML: counter count].
+]
+

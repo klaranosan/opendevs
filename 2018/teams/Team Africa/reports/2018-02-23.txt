@@ -1,0 +1,26 @@
+Authors : - Hona Yete
+	  - Ahouefa Kpossou
+	  - Franco Davy Irakoze
+		  
+		  
+Report of OpenDevs's course on 2018-02-23
+
+
+But du Jour : l'analyse du code du projet choisi dans le cadre du reverse engineering  
+
+
+   Dans cette séance, on a essayé de lancer les exemples dans le package PharoJsExamples dans le but de : 
+ 
+
+	- repérer les classes appélées lors de l'éxecution des exemples
+
+	- repérer les classes principales 
+
+	- l'interaction entre les classes
+
+	- compréhension du code
+
+Point à signaler : Un bug a été repéré au niveau du bridge, en effet lors de l'exécution du tutoriel 			   disponible dans les commentaires  de PharojsBridge, une page web est ouverte mais avec 			   un port qui n'est pas celui entrer en paramètre , on remarque aussi à la suite que si 			   on recommence le port est incrémenté de 1.   
+
+
+

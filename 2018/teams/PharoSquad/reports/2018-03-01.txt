@@ -1,0 +1,12 @@
+Pharo Squad Week 7 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+
+(HOLIDAYS !! YEAH)
+
+1) We watched the 2017 PHARO esug presentation
+
+2) We launched the application examples integrated in PHAROJS and tried to reproduce the presentation of Noury Bouraqadi (.ie, open a bridge, execute some javascript, modify DOM...)
+

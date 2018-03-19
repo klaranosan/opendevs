@@ -1,0 +1,2 @@
+- réalisation de l'exercice DSL
+- découverte des projets

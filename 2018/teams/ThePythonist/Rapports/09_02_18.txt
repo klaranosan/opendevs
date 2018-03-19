@@ -1,0 +1,6 @@
+start retro engeenerring on PILLAR project
+
+	tuto to modify : 
+			clone doesn't work
+			name in the prebuilt version doesn't match
+			still doesn't work after implementation in bashrc

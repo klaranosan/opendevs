@@ -1,0 +1,9 @@
+Pharo Squad Week 4 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+     
+1) We Finished the Dice exercice from the MOOC
+
+2) We read the information about the projects presented during the course, and selected Pillar as the project we want to work on.
