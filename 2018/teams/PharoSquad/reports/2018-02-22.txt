@@ -1,0 +1,14 @@
+
+Pharo Squad Week 6 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+     
+1) Regarding of the difficulties we encounter installing Pillar, we decided to work on PharoJS
+
+2) We checked the PharoJS Website to see the documentation available, the FAQ, the repository.
+
+3) We installed PharoJS
+
+4) We sent a mail to Noury Bouraqadi (founder of the project) to ask him how can we help develop the project, how to report a bug and join their slack discussion.
