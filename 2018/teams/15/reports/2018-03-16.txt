@@ -11,4 +11,9 @@ Achraf, Klara, Elmehdi
 	- #1146 the class mentioned in the issue is not in Moose 6.1, so we suggest to close this issue
 	- #1149 we reproduced the bug and can say that the still problem hasn't been resolved in Moose 6.1, we found the exact package where the problem appears and reported it on the issue tracker
 	- #773 we reproduced the issue and the problem (first reported in 2012!) still hasn't been resolved
+	- #1223 we suggested to close this issue
+	- #1213 improved the bug description, the issue is not actually bug, moreso an improvement
+	- #1138 we managed to load the OSSubprocess successfully in Moose 6.1 and suggested closing the issue
+	- #1180 we suggested to close this issue
+	- #1286 we tried to reproduce the issue and found no problem
 

@@ -1,0 +1,27 @@
+23/03/2018
+
+Achraf, Klara, Elmehdi
+- report on the issues that we dealt with last week:
+	- #1158 the issue was closed
+	- #1156 no changes
+	- #1155 the issue was closed
+	- #1141 the issue was closed
+	- #1146 we got a (y) reaction
+	- #1149 no changes
+	- #773 no changes
+	- #1223 the issue was closed
+	- #1213 no changes
+	- #1138 the issue was closed
+	- #1180 the issue was closed
+	- #1286 the issue was closed
+- new issues we checked:
+	- #1248 we reproduced the bug, it seems like a general pharo problem, not just a problem with moose
+	- #1174 we tried running the tests and noticed the same issue
+- many of the issues are issues with Roassal, so we tried understanding/learning more about that
+
+CONCLUSION
+
+When we started we had quite a bit of difficulty with how to approach such a big project as Moose and try to understand the code. With the help of prof. Ducasse we learned how to check the issues reported to the issue tracker and try to reproduce the bugs, as well as how to reply to them. We checked as many bugs as we could and reproduced them.
+
+However we can say that we found that the issue tracker is not as well organised as it should be - people report bugs, propose new ideas, ask questions ... and many open entries are up t 2 years old with no recent responses. To make it easier for new developers to understand the issues and try working on them it would be better to organise the issue tracker - use tags for different components of Moose, mark if it is a bug or a todo or just an idea/proposal.
+ 
