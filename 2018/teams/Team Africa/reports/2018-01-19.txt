@@ -1,0 +1,27 @@
+Authors : - Hona Yete
+          - Ahouefa Kpossou
+	  - Franco Davy Irakoze
+		  
+		  
+Report of OpenDevs's course on 2018-01-19
+
+
+
+	** Short presentation of stephane Ducasse
+	    subjects:
+	    
+	     - Explanation of how a developper has to be  permanently in technical watch
+	     - advices to be  a good developper   
+
+
+	** First contact of Pharo language :
+		
+		- Continuing to watch pharo's tutorial videos
+		
+	** Preparing the prensentation of the topic choosen :
+
+        - developping with the teacher what had to be done in the prensentation
+        - making the plan of the presentation
+        - explore more the topics that you have choose in pharo language
+        
+        

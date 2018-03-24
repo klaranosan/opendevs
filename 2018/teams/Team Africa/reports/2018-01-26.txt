@@ -1,0 +1,10 @@
+Authors : - Hona Yete
+	  - Ahouefa Kpossou
+	  - Franco Davy Irakoze
+		  
+		  
+Report of OpenDevs's course on 2018-01-26
+
+Au cours de la dernière séance nous avons appris les différents module qui constitue Pharo à travers des présentations d’exposés. En effet chaque groupe d'exposé a abordé dans sa présentation un thème portant sur un module de pharo pour apporter des éclaircissement aux autres qui n’avaient pas en charge ce thème. Notre groupe a donc présenté  “The browser and the inspector”.
+Au cours de la semaine nous avons revus les parties que nous avons abordés dans notre présentation mais aussi celle que nous n’avons pas abordés pour mieux asseoir nos connaissances. Nous avons continué avec les vidéos du mooc.
+

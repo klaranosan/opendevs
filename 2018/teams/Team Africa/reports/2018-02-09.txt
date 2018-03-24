@@ -1,0 +1,21 @@
+Authors : - Hona Yete
+	  - Ahouefa Kpossou
+	  - Franco Davy Irakoze
+		  
+		  
+Report of OpenDevs's course on 2018-02-09
+
+
+
+But du jour : choisir le projet open source sur lequel chaque groupe va travailler dans le cadre du      reverse engineering.
+
+
+ Pour ce qui est de notre choix, nous avons opté pour PharoJs, ensuite nous avons installer le module  sur pharo. Dans la suite de la séance, nous avons analysé les différents packages de PharoJs en essayant de comprendre leurs liens et utilités.
+
+
+Nous avons aussi contacté Mr Noury Bouraqadi pour lui faire part de notre interêt pour le projet, notre envi d'apporter notre contribution.
+
+Contact Mr noury : http://car.mines-douai.fr/noury/
+ 
+ 
+

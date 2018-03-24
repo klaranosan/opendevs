@@ -1,0 +1,42 @@
+Authors : - Hona Yete
+	  - Ahouefa Kpossou
+	  - Franco Davy Irakoze
+		  
+		  
+Report of OpenDevs's course on 2018-01-12
+
+	** Presentation of the course by Guille Polito :
+		
+		The presentation was made to present us the goals of the course and what will be done during the semester.
+		Different aspects was given to us : 
+			
+			- What is  the concept of OpenDev
+			- How we will be evaluated 
+			- the time limit of each work we will have to do.
+			
+	
+	** Small quiz to know :
+	
+	        - our expectations from openDevs courses
+	        - degree of our knowlege in OOP ( Object Oriented Pragramming) 
+	        
+	** Making group of 2 or 3 persons.
+	        
+	        - the group will work together during the semester. 
+			
+	** First contact with Pharo language
+		
+		- Installation of the pharo environment
+		- some tutorials videos was given to us to discover the language. 
+		
+	** Choosing the subject of our first work : Pharo Presentation
+	
+		The topics :
+		 - syntax
+		 - the object model
+		 - collection
+		 - Reflexion
+		 - Development environment 
+		 - Debugger
+		 
+		 
